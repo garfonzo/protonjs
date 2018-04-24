@@ -1,0 +1,14 @@
+{
+  "name": "protonjs",
+  "version": "0.0.1",
+  "description": "A VueJS component library for data heavy web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "garfonzo",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
